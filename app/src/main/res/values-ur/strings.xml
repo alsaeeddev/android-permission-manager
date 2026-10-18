@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">پرمورا</string>
+    <string name="dashboard">ڈیش بورڈ</string>
+    <string name="apps">ایپس</string>
+    <string name="permissions">اجازتیں</string>
+    <string name="usage">استعمال</string>
+    <string name="settings">ترتیبات</string>
+    <string name="search_apps_hint">نام یا پیکیج سے تلاش کریں…</string>
+    <string name="user_apps">صارف کی ایپس</string>
+    <string name="system_apps">سسٹم ایپس</string>
+    <string name="all_apps">تمام ایپس</string>
+    <string name="risky_apps">خطرناک ایپس</string>
+    <string name="revoke_all">تمام منسوخ کریں</string>
+    <string name="undo">کالعدم کریں</string>
+    <string name="device_privacy_score">ڈیوائس پرائیویسی اسکور</string>
+    <string name="sensitive_permissions">حساس اجازتیں</string>
+    <string name="special_access">خصوصی رسائی</string>
+    <string name="appearance">ظاہری شکل</string>
+    <string name="shizuku_privileged_mode">خصوصی موڈ (شیزوکو)</string>
+    <string name="export_report">آڈٹ رپورٹ برآمد کریں</string>
+    <string name="privacy_guarantee">رازداری کی ضمانت</string>
+</resources>
