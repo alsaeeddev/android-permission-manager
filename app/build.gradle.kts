@@ -7,12 +7,14 @@ plugins {
 
 android {
   namespace = "com.example"
-  compileSdk { version = release(36) { minorApiLevel = 1 } }
+  compileSdk {
+    version = release(37)
+  }
 
   defaultConfig {
     applicationId = "com.alsaeeddev.permora"
     minSdk = 26
-    targetSdk = 36
+    targetSdk = 37
     versionCode = 1
     versionName = "1.0"
 
